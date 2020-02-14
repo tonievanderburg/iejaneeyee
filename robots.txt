@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahchohler.enterana.com/sitemap.xml
